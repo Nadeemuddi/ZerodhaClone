@@ -1,0 +1,25 @@
+.nav-link {
+  margin-left: 40px;
+}
+
+.col a {
+  color: #6c757d !important;
+}
+
+.col a:hover {
+  color: #037bd6 !important;
+}
+
+#bgCont {
+  background-color: gray;
+}
+
+.navbar-nav .nav-link {
+  transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: rgb(74, 74, 228);
+  transform: scale(1.1);
+}
+

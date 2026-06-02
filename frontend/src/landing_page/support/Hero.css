@@ -1,0 +1,42 @@
+ .support-box {
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .support-header {
+      padding: 5px;
+      cursor: pointer;
+      background: white;
+      font-weight: 500;
+    }
+
+    .support-header:hover {
+      background: #f8f9fa;
+    }
+
+    .support-links a {
+      display: block;
+      font-size: 1.25rem;
+      padding: 12px 18px;
+      text-decoration: none;
+      color: #0196cd;
+      border-top: 1px solid #eee;
+    }
+
+    .support-links a:hover {
+      background: #f5f5f5;
+      color: black;
+    }
+    .list-container{
+      border: 1px solid rgba(80, 78, 78, 0.408);
+      padding: 10px;
+      border-radius: 6px;
+      margin: 30px 0;
+    }
+     .list-container h4{
+       font-size: 20px;
+     }
+     .list-container:hover{
+      transform: scale(1.02);
+      transition: 0.3s;
+     }
